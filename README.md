@@ -29,7 +29,6 @@ This script solves those problems in a safe, resumable, and structured way.
 - Date-based filenames: `YYYY-MM-DD_HH-MM-SS`
 - Clean folder structure:
 
-##Note
-Some exported Memories may appear visually altered or unusual.
+Note - Some exported Memories may appear visually altered or unusual.
 This is caused by Snapchat permanently rendering text, emojis, stickers, or drawings into the media at creation time.
 These overlays are part of the final exported file and cannot be removed programmatically.
